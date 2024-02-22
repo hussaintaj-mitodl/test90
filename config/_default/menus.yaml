@@ -10,4 +10,5 @@ leftnav:
 - identifier: 0e2dbbb2-39de-4149-9b35-0dcb2cf4adee
   name: An image
   pageRef: /external-resources/an-image
-  weight: 30
+  parent: 860ad17e-9424-4178-bf2f-d908b5eb05cb
+  weight: 10
